@@ -9,14 +9,19 @@ This project was carried out for the course of "Human-Computer Interaction (HCI)
 
 Regarding the HCI elements, the app implements Gamification, Haptics, Camera and Audio, as well as GPS and Wi-Fi/Data (connectivity-wise).
 
-## Collaborators:
+## 👥: Collaborators:
 - [Filippos Sevastakis](https://github.com/FilipposSevastakis)
 - [Kostantinos Ioannou](https://github.com/IoannouKon)
 - Ioannis Karavgoustis
 
-## Application Design:
+## ✏️ Application Design:
 As the first step of this project it was essential to design a (functional) prototype. To this end, we used a design and prototyping tool, Figma. [Click here](https://www.figma.com/file/LYVu7oSicxmjZhLs1XdwE2/Travelly?type=design&node-id=133%3A6587&mode=design&t=bMwYuANjAcT7TgjQ-1) to view the prototype.
 
-## Setup:
-To be added
+## ⚙️ Setup and File Structure:
+For the implementation of this application we used the Flutter software, along with the programming language Dart, and for the testing we deployed Android Studio.
 
+### Setup
+To be added (apk setup)
+
+### File Structure
+The project consists of the main configuration file [pubspec.yaml](./pubspec.yaml) and the [main.dart](./lib/main.dart), the [screens](./lib/screens) and other elements / services(classes) found in the _lib_ folder, amongst other necessary (and by-flutter-automatically-created) files.
