@@ -26,13 +26,13 @@ To be added (apk setup)
 ### File Structure
 The project consists of the main configuration file [pubspec.yaml](./pubspec.yaml) and the [main.dart](./lib/main.dart), the [screens](./lib/screens) and other elements / services(classes) found in the _lib_ folder, amongst other necessary (and by-flutter-automatically-created) files.
 
-## End result
+## 📱 End result
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/489c18cc-57e3-4ac3-a905-0603369b9af5" width="180">
-    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/89f89882-bfb0-4c0f-ba30-c25ce4c42bd3" width="180">
-    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/248bec54-8b15-4249-aa2c-4c4efc91d67d" width="180">
-    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/b8642528-41c1-430d-aab8-bfa8096b68c1" width="180">
-    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/ecbd76ef-d5a1-469e-a8e0-2d23f7ad95f8" width="180">
+    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/489c18cc-57e3-4ac3-a905-0603369b9af5" width="200">
+    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/89f89882-bfb0-4c0f-ba30-c25ce4c42bd3" width="200">
+    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/248bec54-8b15-4249-aa2c-4c4efc91d67d" width="200">
+    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/b8642528-41c1-430d-aab8-bfa8096b68c1" width="200">
+    <img src="https://github.com/FilipposSevastakis/Travelly-MobileApp/assets/106911339/ecbd76ef-d5a1-469e-a8e0-2d23f7ad95f8" width="200">
   </div>
 </p>
