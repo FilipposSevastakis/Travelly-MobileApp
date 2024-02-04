@@ -15,7 +15,7 @@ Regarding the HCI elements, the app implements Gamification, Haptics, Camera and
 - Ioannis Karavgoustis
 
 ## Application Design:
-As the first step of this project it was essential to design a (functional) prototype. To this end, we used a design and prototyping tool, Figma.
+As the first step of this project it was essential to design a (functional) prototype. To this end, we used a design and prototyping tool, Figma. [Click here](https://www.figma.com/file/LYVu7oSicxmjZhLs1XdwE2/Travelly?type=design&node-id=133%3A6587&mode=design&t=bMwYuANjAcT7TgjQ-1) to view the prototype.
 
 ## Setup:
 To be added
